@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there 👋  
 
--> :open_hands: I'm currently working on SOWA2 with Komisja Cyfryzacji (KC :hearts:). Website for SSPW's election system.
--> :books: I'm currently learing Java. Targeting Spring+Hibernate.
--> :zap: How to reach me: [patryk.kondrat.1@gmail.com](mailto:patryk.kondrat.1@gmail.com)
--> :fireworks: I have knowledge of Python, Databases, API, some ML.
--> :fire: I am a geodesy student on a daily basis, but in my spare time I am an enthusiast and tryhard in programming. 
+-> :open_hands: I'm currently working on SOWA2 with Komisja Cyfryzacji (KC :hearts:). Website for SSPW's election system.  
+-> :books: I'm currently learing Java. Targeting Spring+Hibernate.  
+-> :zap: How to reach me: [patryk.kondrat.1@gmail.com](mailto:patryk.kondrat.1@gmail.com)  
+-> :fireworks: I have knowledge of Python, Databases, API, some ML.  
+-> :fire: I am a geodesy student on a daily basis, but in my spare time I am an enthusiast and tryhard in programming.  
 
 <!--
 **patrykkondrat/patrykkondrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
