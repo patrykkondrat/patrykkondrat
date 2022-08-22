@@ -2,7 +2,7 @@
 
 -> :open_hands: I'm currently working on SOWA2 with Komisja Cyfryzacji (KC :hearts:). Website for SSPW's election system.  
 -> :books: I'm currently learing Java. Targeting Spring+Hibernate.  
--> :fireworks: I have knowledge of Python, Databases, API, some ML.  
+-> :fireworks: Python, Databases, API, some ML.  
 -> :fire: I am a geodesy student on a daily basis, but in my spare time I am an enthusiast and tryhard in programming.  
 
 <!--
