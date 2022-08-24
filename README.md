@@ -4,6 +4,8 @@
 -> :books: I'm currently learing Java. Targeting Spring+Hibernate.  
 -> :fireworks: Python, Databases, API, some ML.  
 -> :fire: I am a geodesy student on a daily basis, but in my spare time I am an enthusiast and tryhard in programming.  
+-> 🥇 I am open to hackathons ;)
+
 
 <!--
 **patrykkondrat/patrykkondrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
