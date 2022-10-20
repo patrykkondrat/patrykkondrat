@@ -1,7 +1,7 @@
 ### Hi there 👋  
 
--> :books: I'm currently learing Java. Targeting Spring+Hibernate.  
--> :fireworks: Python, Databases, API, some ML.  
+-> :books: I'm currently targeting Spring+Hibernate.  
+-> :fireworks: Java, Python, Databases, API, some ML.  
 -> :open_hands: I'm currently working on SOWA2 with Komisja Cyfryzacji (KC :hearts:). Website for SSPW's election system.  
 -> :fire: I'm a geodesy student on a daily basis, but in my spare time I am an enthusiast and tryhard in programming.  
 -> 🥇 I'm open to hackathons ;)
