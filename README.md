@@ -1,5 +1,5 @@
 # 💫 About Me:
-:books: I'm currently targeting Spring/Microservices.<br>:fireworks: Java (SpringBoot), Python, Databases, API, some ML.<br>:open_hands: I'm currently working on SOWA2 with Komisja Cyfryzacji (KC :hearts:). Website for SSPW's election system.<br>:1st_place_medal: I'm open to hackathons and open source projects;)
+:books: I'm currently targeting Spring/Microservices.<br>:fireworks: Java (SpringBoot), Python, Databases, API, some ML.<br>:open_hands: I'm currently working on SOWA2 with Digitization Committee (KC :hearts:). Website for SSPW's election system.<br>:1st_place_medal: I'm open to hackathons and open source projects;)
 
 
 # 💻 Tech Stack:
